@@ -1,5 +1,5 @@
-# 3D-image-gallery
-Three.js React.js 3D Image
+# 3D-Room-Design
+Three.js React.js 3D Room
 
 ## Screenshots
 
